@@ -1,12 +1,14 @@
 # Next session — nn-sssl
 
-Updated 2026-09-15.
+Updated 2026-09-24.
 
 The hackless Wii U path's certificate tool: turns an operator-supplied dump
 of `Nintendo CA - G3` into the forged CA + wildcard site cert the Wii U's
-post-5.5.5 SSL verifier accepts. It IS a git repo (41 commits, remote
+post-5.5.5 SSL verifier accepts. It IS a git repo (remote
 openpak/nn-sssl, no tags) — and it is a tool, not a service: nothing here
 builds, tags or deploys.
+
+Current status 2026-09-24: still no tags; since `cb4c93b` only docs commits.
 
 ## Where things stand
 
@@ -20,7 +22,7 @@ builds, tags or deploys.
 - The console half of the route is `nn-sssl-dns` (DNS setting only);
   Aroma consoles use `nn-inkay` instead and need none of this.
 - The hackless route end to end has never been exercised on a console.
-- Untracked (2026-09-15 docs pass): `CHANGELOG.md`, `docs/`, `prds/` stubs.
+- 2026-09-15 docs pass committed: `CHANGELOG.md`, `docs/`, `prds/` stubs.
 
 ## Next steps
 
