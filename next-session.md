@@ -34,3 +34,12 @@ builds, tags or deploys.
 - README: the two verifier bugs, env/CLI table, Docker usage
 - ../prds/platform-wiiu-prd.md §4 — the two console routes
 - ../nn-sssl-dns (DNS half), ../nn-inkay (modded alternative)
+
+## Scratch (research and throwaway work)
+
+Decompiles, Ghidra projects, dumps, exefs/romfs extracts, packet captures,
+strace and emulator logs, probe harnesses: put them in
+`~/REPOS/Openpak/scratch/<topic>`. That folder is a local mount of the media pool,
+outside every repository, so nothing in it is committed. Never use `/tmp` (a
+shared 15 GB RAM disk) or elsewhere on `/home` for this. Keys and signing
+material never go there. Rule: `docs/playbooks/conventions.md` in the workspace.
