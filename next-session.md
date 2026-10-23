@@ -34,8 +34,8 @@ Current status 2026-09-24: still no tags; since `cb4c93b` only docs commits.
 ## Pointers
 
 - README: the two verifier bugs, env/CLI table, Docker usage
-- ../prds/platform-wiiu-prd.md §4 — the two console routes
-- ../nn-sssl-dns (DNS half), ../nn-inkay (modded alternative)
+- ../../../../prds/platform-wiiu-prd.md §4 — the two console routes
+- ../nn-sssl-dns (DNS half), ../../clients/nn-inkay (modded alternative)
 
 ## Scratch (research and throwaway work)
 
