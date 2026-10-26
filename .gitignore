@@ -133,3 +133,4 @@ dist
 *.pem
 *.der
 *.csr
+next-session.md
