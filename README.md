@@ -33,7 +33,6 @@ node patch      # reads SSSL_* environment variables; or: node patch -i
 ## Docs
 
 - [Protocol](docs/protocol.md)
-- [Evidence](docs/evidence.md)
 - [Deploy](docs/deploy.md)
 - [Notes](docs/notes.md)
 - [Upstream README](docs/upstream.md)
