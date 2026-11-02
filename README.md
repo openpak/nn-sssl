@@ -34,10 +34,10 @@ node patch      # reads SSSL_* environment variables; or: node patch -i
 
 - [Protocol](docs/protocol.md)
 - [Deploy](docs/deploy.md)
-- [Notes](docs/notes.md)
-- [Upstream README](docs/upstream.md)
-- [Docs index](docs/README.md)
+- [Provenance](docs/provenance.md)
 
 ## Licence
 
 GPL-3.0. See [LICENSE](LICENSE).
+
+PRDs: openpak/prds (private)

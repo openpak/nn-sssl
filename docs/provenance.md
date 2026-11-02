@@ -1,3 +1,9 @@
+# Provenance
+
+Based on [Pretendo `SSSL`](https://github.com/PretendoNetwork/SSSL) (GPL-3.0). License as upstream; see LICENSE. The upstream README follows verbatim.
+
+---
+
 # SSSL - Hackless SSL bypass for the Wii U
 
 <div align="center">
