@@ -3,7 +3,7 @@
 Generated from git history on 2026-09-15. `git log` stays the source
 of truth; this file is the readable summary.
 
-## History — no releases tagged yet
+## v0.1.0 — 2026-11-04
 
 - OpenPak README: what it is for here and what the operator must supply [cb4c93b]
 - Merge pull request #5 from MatthewL246/fix-readme [61af9ab]
